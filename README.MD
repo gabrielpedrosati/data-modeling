@@ -1,7 +1,7 @@
 # Modelagem de Dados
 
 ## Modelo Entidade-Relacional
-### Enunciado
+### Enunciado - Seguros
 Empresa de seguros de automóveis:
 Uma empresa deseja controlar via sistema suas atividades e contratou a sua empresa para desenhar a arquitetura de banco. Portanto, considere os aspectos abaixo:
 
@@ -25,3 +25,6 @@ E sempre que houver um sinistro é preciso saber qual o carro envolvido, além d
 
 ### Modelo Físico
 !["Modelo Físico"](/imgs/modelo_fisico.png)
+
+### Modelo Dimensional (Data Warehouse)
+!["Modelo Dimensional"](/imgs/modelo_dimensional.png)
